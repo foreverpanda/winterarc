@@ -1,0 +1,16 @@
+ read about 
+setIntervals and about clearing intervas : https://developer.mozilla.org/en-US/docs/Web/API/setInterval
+Min values and Max Values : https://www.w3schools.com/jsref/jsref_min_value.asp
+
+
+
+To read : 
+Clustering in Node js [Multi-Threading] : https://medium.com/@ultroNeous.Technologies/unleashing-the-power-of-multithreading-in-node-js-with-the-cluster-module-5a48f2d952ba
+
+https://dev.to/m__mdy__m/node-boost-clusters-threads-22bm#:~:text=js%20multi%2Dthreaded%2C%20it%20simulates,multiple%20instances%20of%20the%20Node.
+
+Why NodeJs is single Threaded : https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded
+
+How to use multithreading in NodeJs : https://www.digitalocean.com/community/tutorials/how-to-use-multithreading-in-node-js
+
+
